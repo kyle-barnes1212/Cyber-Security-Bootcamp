@@ -58,7 +58,7 @@ A summary of the access policies in place can be found in the table below.
 
 | Name       | Publicly Accessible | Allowed IP Addresses |
 |------------|---------------------|----------------------|
-| Jump Box   | Yes                 | 24.2.66.216          |
+| Jump Box   | Yes                 | Personal IP Address  |
 | Web-1      | No                  | 104.40.88.69         |
 | Web-2      | No                  | 104.40.88.69         |
 | Web-3      | No                  | 104.40.88.69         |
@@ -78,7 +78,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-(Images/docker_ps_output.png)
+![image](https://github.com/kyle-barnes1212/Cyber-Security-Bootcamp/blob/557320224d19fa8feacbb51abb54daa11c4cc907/Ansible/docker_ps_output.png)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
