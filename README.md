@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-(Images/ELK_Stack_P1.png)
+![image](https://github.com/kyle-barnes1212/Cyber-Security-Bootcamp/blob/df016dd1b82cd196daeeb43ffd81feddf67f176a/Diagrams/ELK_Stack_P1.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
